@@ -6,7 +6,7 @@
 <p align="left"> 📍 learning html, css, js<br>📍 knows python  and c++ (basics)<br>📍 most projects are made in python<br>📍 developer of discord bot <br>📍 interested in backend & frontend<br>📍 YOUTUBE video creator & editor<br>📍 AI explorer</p>
 
 ###
-<h2 align = "left"> 🌟 Languages I Work: </h2>
+<h2 align = "left"> 🌟 Languages  : </h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
