@@ -1,4 +1,11 @@
-<h2 align="left">Hey ! Myself Ronit and I'm a programmer from India</h2>
+<h2 align="left">Hey 👋 ! Myself Ronit & I'm a programmer from India</h2>
+<h2 align="left"> 📢 My skills  :</h2>
+
+###
+
+<p align="left"> 📍 learning html, css, js<br>📍 knows python  and c++ (basics)<br>📍 most projects are made in python<br>📍 developer of discord bot <br>📍 interested in backend & frontend<br>📍 YOUTUBE video creator & editor<br>📍 AI explorer</p>
+
+###
 
 ###
 
@@ -44,13 +51,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<h2 align="left">My skills  :</h2>
-
-###
-
-<p align="left">> learning html, css, js<br>> knows python  and c++ (basics)<br>> most projects are made in python<br>> developer of a discord bot named flare<br>> intrested in web development as backend and also intrested in frontend<br>> YOUTUBE video creator & editor<br>> AI explorer</p>
 
 ###
