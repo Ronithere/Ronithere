@@ -6,16 +6,7 @@
 <p align="left"> 📍 learning html, css, js<br>📍 knows python  and c++ (basics)<br>📍 most projects are made in python<br>📍 developer of discord bot <br>📍 interested in backend & frontend<br>📍 YOUTUBE video creator & editor<br>📍 AI explorer</p>
 
 ###
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ronithere&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ronithere&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
+<h2 align = "left"> 🌟 Languages I Work: </h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -31,8 +22,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 </div>
-
-###
+<h2 align = "left"> 📢 My Socials : </h2>
 
 <div align="left">
   <a href="https://www.youtube.com/@noobsenapati" target="_blank">
@@ -53,3 +43,10 @@
 </div>
 
 ###
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ronithere&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ronithere&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
