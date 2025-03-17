@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋 ! Myself Ronit & I'm a programmer from India</h2>
+<h2 align="left">I'm Ronit From 🇮🇳 !!</h2>
 <h2 align="left"> 📢 My Abilities  :</h2>
 
 ###
